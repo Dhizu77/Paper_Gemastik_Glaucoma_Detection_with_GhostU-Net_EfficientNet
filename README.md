@@ -1,7 +1,12 @@
 # GlaucoNet: Ghost U-Net and EfficientNetV2 for Glaucoma Detection
 
-This repository contains the results of our research conducted for **GEMASTIK XVII** in the **Data Mining** category. We developed a **Ghost U-Net** model for retinal image segmentation and an **EfficientNetV2-B2** model for classification, aimed at early detection of glaucoma.
+This repository contains the results of our research conducted for GEMASTIK XVII in the Data Mining category. We developed a Ghost U-Net model for retinal image segmentation and an EfficientNetV2-B2 model for classification, aimed at early detection of glaucoma.
 
+Authors:
+Willy Wijaya (Author 1): d1041221028@student.untan.ac.id
+Dhimas Fauzan Al Asri (Author 2): d1041221036@student.untan.ac.id
+Hergi Alfizar (Author 3): d1041221018@student.untan.ac.id
+Fauzan Asrin (Supervisor)
 ## Overview
 
 Glaucoma is the second leading cause of irreversible blindness globally, often undetected in its early stages due to the complex diagnosis process. **GlaucoNet** is a solution that leverages deep learning techniques to help clinicians detect glaucoma early, providing high accuracy and efficient resource usage.
